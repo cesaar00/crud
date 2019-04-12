@@ -1,6 +1,6 @@
 <?php include ("conexionbd.php")  ?>
 
-<?php include ("includes/header.php") ?>
+<?php include ("header.php") ?>
 
 
 <div class="container p-4">
@@ -70,4 +70,4 @@
 	</div>
 </div>
 
-<?php include ("includes/footer.php")?>
+<?php include ("footer.php")?>
